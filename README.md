@@ -7,11 +7,13 @@ Abstract: Continual Test-Time Adaptation (CTTA) aims to adapt a source domain mo
 
 Index Terms: test-time adaptation, ensemble learning, continual test-time adaptation
 
+
 On the following tasks 🌅
 + CIFAR10 -> CIFAR10-C (Standard/Gradual)
 + CIFAR100 -> CIFAR100-C (Standard)
 + ImageNet -> ImageNet-C (Standard)
 + ImageNet -> ImageNet-R (Standard)
+
 
 Compare this with the following methods 🌈
 + [CoTTA](https://arxiv.org/abs/2203.13591)
