@@ -20,6 +20,7 @@ Compare this with the following methods 🌈
 + [RMT](https://arxiv.org/abs/2211.13081)
 + [SAR](https://arxiv.org/abs/2302.12400)
 + [Continual-MAE](https://arxiv.org/abs/2312.12480)
++ DENSE
 
 ## Install ##
 ```git clone https://github.com/Cadezzyr/DENSE.git```
